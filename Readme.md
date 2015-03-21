@@ -10,7 +10,7 @@ Source: Markdown
 
 Output: PDF
 
-Online Preview: [markdown/resume.md](markdown/resume.md)
+Online Preview: [pdf/resume.pdf](pdf.resume.pdf)
 
 PDF Download: [pdf/resume.pdf](https://github.com/hit9/resume.pdf/blob/master/pdf/resume.pdf?raw=true)
 
