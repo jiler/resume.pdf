@@ -46,8 +46,8 @@
 - <datetime>2013.04 - 2013.07</datetime> <head_>**todo.c** *(github.com/hit9/todo.c)* <lang>C</lang></head_>
 <description>轻量的命令行todo管理工具，持久存储可读</description>
 
-实习与奖励
-----------
+工作经历
+--------
 
 - <datetime>2014.03 - now </datetime> <head_>**Eleme产品部平台架构组工程师**</head_>
 <description>Eleme后端基础RPC服务的维护、Metric监控与报警、日志收集与异常报警等</description>
