@@ -30,11 +30,12 @@
 - <datetime>2014.09 - now</datetime> <head_>**thriftpy** *(github.com/eleme/thriftpy)* <lang>Python</lang></head_>
 <description>Apache Thrift的Python实现(主要参与Parser部分)</description>
 
-- <datetime>2014.08 - 2014.12</datetime> <head_>**node-bell** *(github.com/eleme/node-bell)* <lang>Nodejs</lang></head_>
+- <datetime>2014.08 - 2014.12</datetime> <head_>**bell.js** *(github.com/eleme/bell.js)* <lang>Nodejs</lang></head_>
 <description>实时时间序列异常点检测系统，在eleme用来实时监控接口调用次数、时长、异常等信息</description>
 
-- <datetime>2014.07 - 2014.10</datetime> <head_>**node-ssdb & ssdb.py** *(github.com/eleme/node-ssdb & github.com/hit9/ssdb.py)* <lang>Nodejs/Python</lang></head_>
-<description>Nosql数据库服务器ssdb的Nodejs & Python客户端</description>
+- <datetime>2014.07 - 2014.10</datetime> <head_>**node-ssdb, ssdb.py, lua-resty-ssdb** *(eleme/node-ssdb & hit9/ssdb.py & eleme/lua-resty-ssdb)* 
+<lang>Nodejs/Python</lang></head_>
+<description>NoSQL数据库服务器ssdb的Nodejs, Python, lua-ngx客户端实现</description>
 
 - <datetime>2012.09 - 2013.07</datetime> <head_>**skylark** *(github.com/hit9/skylark)* <lang>Python</lang></head_>
 <description>支持mysql/sqlite3的Python轻量级ORM框架</description>
