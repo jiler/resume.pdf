@@ -1,7 +1,7 @@
 Hit9's Resumé
 -------------
 
-Status: **Available for hire**
+Status: **Not available for hire**
 
 About
 ------
