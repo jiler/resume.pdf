@@ -64,7 +64,7 @@ img[alt="school-logo"] {
 /* avatar */
 img[alt="avatar"] {
   position: absolute;
-  top: 5.0em;
+  top: 4.8em;
   right: 3em;
   height: 12.5em;
   width: 8.7em;

@@ -26,12 +26,12 @@ a: hover {
 /* Headlines has different font sizes */
 h1 {
  /* font-size: 1.6em; */
-  font-size: 1.8em;
+  font-size: 2.2em;
 }
 
 h2 {
  /* font-size: 1.2em; */
-  font-size: 1.6em;
+  font-size: 2.0em;
 }
 
 /* H1 and H2 has underline */
@@ -48,31 +48,23 @@ ul {
 
 li {
   display: list-item;
-  /* no */
-  font-size: 1.3em;
-
 }
 
 /* school logo */
 img[alt="school-logo"] {
   position: absolute;
-  /*top: .3em;
+  top: .3em;
   right: .8em;
-  height: 1.7em;*/
-  top: .03em;
-  right: .6em;
-  height: 7.0em;
-  width: 18.7em;
+  height: 1.7em;
   background-color: #fff;
 }
 
 /* avatar */
 img[alt="avatar"] {
   position: absolute;
-  top: 5.0em;
-  right: 3em;
-  height: 12.5em;
-  width: 8.7em;
+  top: 3.8em;
+  right: 1em;
+  height: 8.5em;
   background-color: #fff;
 }
 
@@ -81,7 +73,8 @@ img[alt="avatar"] {
 /* ---- only for those ugly lists !--- */
 
 li em {
-  font-size: .8em; 
+ /* font-size: .8em; */
+  font-size: 1.4em;
   color: #777;
   font-style: italic;
 }
@@ -89,19 +82,19 @@ li em {
 datetime {
   display: inline-block;
   width: 9em;
-
+/* 以前没设置 */
+  font-size: 1.4em;
 }
 
 head_ {
   border-bottom: 1px solid #ddd;
   margin-left: .5em;
-
 }
 
 lang {
   float: right;
-  font-size: .8em; 
-
+ /* font-size: .8em; */
+  font-size: 1.4em;
   border-bottom: 1px dotted #ddd;
 }
 
@@ -109,8 +102,6 @@ description {
   margin-top: .5em; /* away from big title, looks like a block*/
   display: block;
   margin-left: 9.8em;  /* 9 + .5 + .3*/
-
-
 }
 
 hireable {
@@ -190,8 +181,8 @@ footnote {
 <li><p>爱好:中国象棋,读写文章,组装机械物件,编程    </p></li>
 </ul>
 
-<p><img src="/home/jiler/myprojects/resume.pdf/images/bit_logo.jpg" title="" alt="school-logo" />
-<img src="/home/jiler/myprojects/resume.pdf/images/me.jpg" title="" alt="avatar" /></p>
+<p><img src="/home/jiler/myprojects/resume.pdf/images/hit_logo.jpg" title="" alt="school-logo" />
+<img src="/home/jiler/myprojects/resume.pdf/images/avatar.jpg" title="" alt="avatar" /></p>
 
 <p><footnote>Resume Git Repository: <a href="https://github.com/jiler/resume.pdf">https://github.com/jiler/resume.pdf</a></footnote></p>
 
