@@ -1,7 +1,7 @@
-Hit9's Resumé
+jiler's Resume Fored From [Hit9](https://github.com/hit9)
 -------------
 
-Status: **Not available for hire**
+Status: **Available for hire**
 
 About
 ------
@@ -12,7 +12,7 @@ Output: PDF
 
 Online Preview: [pdf/resume.pdf](pdf/resume.pdf)
 
-PDF Download: [pdf/resume.pdf?raw=true](https://github.com/hit9/resume.pdf/blob/master/pdf/resume.pdf?raw=true)
+PDF Download: [pdf/resume.pdf?raw=true](https://github.com/jiler/resume.pdf/blob/master/pdf/resume.pdf?raw=true)
 
 补充说明
 --------
